@@ -13,3 +13,13 @@ export const Produtos = styled.ul`
     grid-template-columns: 1fr;
   }
 `
+
+export const error = styled.h2`
+  color: red;
+  text-align: center;
+`
+
+export const loading = styled.h2`
+  color: black;
+  text-align: center;
+`
